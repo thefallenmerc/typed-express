@@ -1,4 +1,5 @@
 import express, { Request, Response } from 'express';
+import SampleValidator from '../validators/sample-validator';
 
 const router = express.Router();
 
