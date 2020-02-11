@@ -1,6 +1,6 @@
 # Validation in typed express
 
-1. Copy [src/validators/sample-validator.js]() to your desired name in the same directory
+1. Copy [src/validators/sample-validator.ts](../src/validators/sample-validator.ts) to your desired name in the same directory
 2. Content of the file will be - 
 
 ``` typescript
