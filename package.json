@@ -10,7 +10,7 @@
     "express": "^4.17.1",
     "morgan": "^1.9.1",
     "node-cron": "^2.0.3",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "validatorjs": "^3.18.1"
   },
   "devDependencies": {
